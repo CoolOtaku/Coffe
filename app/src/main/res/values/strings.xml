@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffe</string>
+    <string-array name="list">
+        <item>Напої</item>
+        <item>Їжа</item>
+        <item>Контакти</item>
+    </string-array>
+</resources>
